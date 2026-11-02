@@ -31,3 +31,15 @@ From DTI412, I expect to learn how professional applications are developed from 
 - Technical skills I want to improve: Python programming, database design, and version control with Git
 - Technologies I want to learn: Django, REST APIs, and cloud deployment
 - Dream Job Position: Full-Stack Developer
+
+## Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
