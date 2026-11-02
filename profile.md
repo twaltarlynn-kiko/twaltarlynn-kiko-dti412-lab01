@@ -3,9 +3,9 @@
 ## Personal Information
 
 - Full Name: Twal Tar Lynn
-- Student ID: [Student ID]
-- Program: [Program]
-- Academic Year: [Academic Year]
+- Student ID: 240702403770
+- Program: Digital Technology Innovation
+- Academic Year: 3rd year
 
 ## Technical Skills
 
@@ -15,7 +15,7 @@
 
 ## Personal Interests
 
-- Hobbies: [Hobbies]
+- Hobbies: Entertainment, hanging out with friends
 - Favorite Technology: Python, because its clear syntax makes it easy to turn an idea into a working program.
 
 ## Career Goal
